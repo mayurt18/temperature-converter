@@ -1,4 +1,4 @@
-Preview: https://mayurt18.github.io/temperature-converter/
+view application: https://mayurt18.github.io/temperature-converter/
 
 Temperature Converter
 
